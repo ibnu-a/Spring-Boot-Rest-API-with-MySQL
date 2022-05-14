@@ -2,12 +2,7 @@ package com.code.arsen.entity;
 
 import lombok.Data;
 
-import org.springframework.data.annotation.CreatedDate;
-import org.springframework.data.annotation.LastModifiedDate;
-
 import javax.persistence.*;
-import java.time.Instant;
-import java.util.Date;
 
 @Entity
 @Table(name = "users")
