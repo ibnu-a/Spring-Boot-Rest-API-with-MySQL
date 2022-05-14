@@ -16,8 +16,17 @@
 
 ##Test
 
-* Get List
-![image-get-list](image-get-list.jpg)
+* Get List Data
+![image-get-list](image-get-list.JPG)
 
-* Get By Id
-![image-get-by-id](image-get-by-id.jpg)
+* Get Data By Id
+![image-get-by-id](image-get-by-id.JPG)
+
+* Post Data
+![image-post](image-post.JPG)
+
+* Update Data
+![image-put](image-put.JPG)
+
+* Delete Data
+![image-delete](image-delete.JPG)
