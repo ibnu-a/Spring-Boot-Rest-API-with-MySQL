@@ -12,3 +12,12 @@
 * Setting `spring.datasource.username` & `spring.datasource.password` properties are the same as your database installation.
 * Spring Boot uses Hibernate for JPA implementation, we configure `MySQL8Dialect` for MySQL
 * `spring.jpa.hibernate.ddl-auto` is used for database initialization. We set the value to update value so that a table will be created in the database automatically corresponding to defined data model. Any change to the model will also trigger an update to the table. For production, this property should be `validate`.
+
+
+##Test
+
+* Get List
+![image-get-list](image-get-list.jpg)
+
+* Get By Id
+![image-get-by-id](image-get-by-id.jpg)
