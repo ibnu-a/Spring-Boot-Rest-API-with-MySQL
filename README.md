@@ -9,7 +9,7 @@
 * Postman for testing
 
 ### Configure Spring Datasource, JPA, Hibernate
-**The configuration is in the application.properties file
+** The configuration is in the application.properties file
 
 * Setting `spring.datasource.username` & `spring.datasource.password` properties are the same as your database installation.
 * Spring Boot uses Hibernate for JPA implementation, we configure `MySQL8Dialect` for MySQL
